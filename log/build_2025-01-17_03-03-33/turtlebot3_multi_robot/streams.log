@@ -1,0 +1,2 @@
+[0.336s] Invoking command in '/home/wade/ros2_ws/build/turtlebot3_multi_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/wade/ros2_ws/src/turtlebot3_multi_robot2 -DCMAKE_INSTALL_PREFIX=/home/wade/ros2_ws/install/turtlebot3_multi_robot
+[0.342s] [0mCMake Error: The source "/home/wade/ros2_ws/src/turtlebot3_multi_robot2/CMakeLists.txt" does not match the source "/home/wade/ros2_ws/src/turtlebot3_multi_robot/CMakeLists.txt" used to generate cache.  Re-run cmake with a different source directory.[0m

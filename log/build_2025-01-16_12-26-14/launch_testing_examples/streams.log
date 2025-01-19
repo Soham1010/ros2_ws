@@ -1,0 +1,18 @@
+[1.780s] Invoking command in '/home/wade/ros2_ws/build/launch_testing_examples': PYTHONPATH=/home/wade/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wade/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/wade/ros2_ws/build/launch_testing_examples/build --no-deps symlink_data --force
+[2.056s] running develop
+[2.203s] running egg_info
+[2.203s] writing launch_testing_examples.egg-info/PKG-INFO
+[2.203s] writing dependency_links to launch_testing_examples.egg-info/dependency_links.txt
+[2.203s] writing entry points to launch_testing_examples.egg-info/entry_points.txt
+[2.203s] writing requirements to launch_testing_examples.egg-info/requires.txt
+[2.203s] writing top-level names to launch_testing_examples.egg-info/top_level.txt
+[2.204s] reading manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[2.204s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[2.206s] running build_ext
+[2.206s] Creating /home/wade/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch-testing-examples.egg-link (link to .)
+[2.207s] 
+[2.207s] Installed /home/wade/ros2_ws/build/launch_testing_examples
+[2.207s] running symlink_data
+[2.207s] symbolically linking /home/wade/ros2_ws/build/launch_testing_examples/resource/launch_testing_examples -> /home/wade/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[2.209s] symbolically linking /home/wade/ros2_ws/build/launch_testing_examples/package.xml -> /home/wade/ros2_ws/install/launch_testing_examples/share/launch_testing_examples
+[2.405s] Invoked command in '/home/wade/ros2_ws/build/launch_testing_examples' returned '0': PYTHONPATH=/home/wade/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wade/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/wade/ros2_ws/build/launch_testing_examples/build --no-deps symlink_data --force

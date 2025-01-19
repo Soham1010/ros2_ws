@@ -1,0 +1,9 @@
+[0.009s] Invoking command in '/home/wade/ros2_ws/build/turtlesim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/robot_math:/home/wade/ros2_ws/install/python_parameters:/home/wade/ros2_ws/install/my_turtlebot3_sim:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/wade/ros2_ws/build/turtlesim -- -j12 -l12
+[0.050s] [35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_generator_c[0m
+[0.054s] failed to create symbolic link '/home/wade/ros2_ws/build/turtlesim/ament_cmake_python/turtlesim/turtlesim' because existing path cannot be removed: Is a directory
+[0.055s] [  1%] Built target turtlesim__cpp
+[0.055s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_turtlesim.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_turtlesim] Error 1
+[0.055s] gmake[1]: *** [CMakeFiles/Makefile2:429: CMakeFiles/ament_cmake_python_symlink_turtlesim.dir/all] Error 2
+[0.055s] gmake[1]: *** Waiting for unfinished jobs....
+[0.062s] [ 11%] Built target turtlesim__rosidl_generator_c
+[0.063s] gmake: *** [Makefile:146: all] Error 2

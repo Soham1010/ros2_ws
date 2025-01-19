@@ -1,0 +1,3 @@
+source;share/turtlesim_goal/hook/pythonpath.ps1
+source;share/turtlesim_goal/hook/pythonpath.dsv
+source;share/turtlesim_goal/hook/pythonpath.sh

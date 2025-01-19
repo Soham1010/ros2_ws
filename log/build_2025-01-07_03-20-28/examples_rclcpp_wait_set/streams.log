@@ -1,0 +1,46 @@
+[0.203s] Invoking command in '/home/wade/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/python_parameters:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/wade/ros2_ws/build/examples_rclcpp_wait_set -- -j12 -l12
+[0.369s] [ 20%] Built target talker
+[0.369s] [ 20%] Built target wait_set_listener
+[0.369s] [ 33%] Built target wait_set
+[0.369s] [ 33%] Built target wait_set_talker
+[0.369s] [ 41%] Built target wait_set_topics_and_timer
+[0.373s] [ 54%] Built target thread_safe_wait_set
+[0.373s] [ 58%] Built target listener
+[0.376s] [ 66%] Built target static_wait_set
+[0.376s] [ 75%] Built target wait_set_random_order
+[0.384s] [ 83%] Built target wait_set_topics_with_different_rates
+[0.385s] [ 91%] Built target executor_random_order
+[0.439s] [100%] Built target wait_set_composed
+[4.388s] Invoked command in '/home/wade/ros2_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/python_parameters:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/wade/ros2_ws/build/examples_rclcpp_wait_set -- -j12 -l12
+[4.391s] Invoking command in '/home/wade/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/python_parameters:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/wade/ros2_ws/build/examples_rclcpp_wait_set
+[5.362s] -- Install configuration: ""
+[5.362s] -- Execute custom install script
+[5.362s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker
+[5.363s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener
+[5.364s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/lib/libtalker.so
+[5.364s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/lib/liblistener.so
+[5.364s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set
+[5.364s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set
+[5.364s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set
+[5.364s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer
+[5.364s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order
+[5.364s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_wait_set
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_wait_set
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.sh
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.dsv
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.sh
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.dsv
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.bash
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.sh
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.zsh
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.dsv
+[5.365s] -- Symlinking: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.dsv
+[5.365s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/packages/examples_rclcpp_wait_set
+[5.366s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_wait_set
+[5.366s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig.cmake
+[5.366s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig-version.cmake
+[5.366s] -- Up-to-date symlink: /home/wade/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.xml
+[5.392s] Invoked command in '/home/wade/ros2_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/python_parameters:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/wade/ros2_ws/build/examples_rclcpp_wait_set

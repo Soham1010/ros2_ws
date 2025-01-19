@@ -1,0 +1,40 @@
+[0.010s] Invoking command in '/home/wade/ros2_ws/build/more_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/wade/ros2_ws/build/more_interfaces -- -j12 -l12
+[0.026s] [31mCMake Error at CMakeLists.txt:56:
+[0.026s]   Parse error.  Function missing ending ")".  Instead found unterminated
+[0.026s]   string with text "${cpp_typesupport_target
+[0.026s] 
+[0.026s]   
+[0.026s] 
+[0.026s]   
+[0.026s] 
+[0.026s]   # Export the message runtime dependency
+[0.026s] 
+[0.026s]   ament_export_dependencies(rosidl_default_runtime)
+[0.026s] 
+[0.026s]   
+[0.026s] 
+[0.026s]   if(BUILD_TESTING)
+[0.026s] 
+[0.026s]     find_package(ament_lint_auto REQUIRED)
+[0.026s]     # the following line skips the linter which checks for copyrights
+[0.026s]     # comment the line when a copyright and license is added to all source files
+[0.026s]     set(ament_cmake_copyright_FOUND TRUE)
+[0.026s]     # the following line skips cpplint (only works in a git repo)
+[0.026s]     # comment the line when this package is in a git repo and when
+[0.026s]     # a copyright and license is added to all source files
+[0.026s]     set(ament_cmake_cpplint_FOUND TRUE)
+[0.026s]     ament_lint_auto_find_test_dependencies()
+[0.026s] 
+[0.027s]   endif()
+[0.027s] 
+[0.027s]   
+[0.027s] 
+[0.027s]   ament_package()
+[0.027s] 
+[0.027s]   ".
+[0.027s] 
+[0.027s] [0m
+[0.027s] -- Configuring incomplete, errors occurred!
+[0.027s] See also "/home/wade/ros2_ws/build/more_interfaces/CMakeFiles/CMakeOutput.log".
+[0.027s] gmake: *** [Makefile:747: cmake_check_build_system] Error 1
+[0.029s] Invoked command in '/home/wade/ros2_ws/build/more_interfaces' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/wade/ros2_ws/build/more_interfaces -- -j12 -l12

@@ -1,0 +1,20 @@
+[0.154s] Invoking command in '/home/wade/ros2_ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/robot_math:/home/wade/ros2_ws/install/python_parameters:/home/wade/ros2_ws/install/my_turtlebot3_sim:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/wade/ros2_ws/build/tutorial_interfaces -- -j12 -l12
+[0.336s] [  2%] Built target tutorial_interfaces__cpp
+[0.351s] [ 12%] Built target tutorial_interfaces__rosidl_generator_c
+[0.352s] failed to create symbolic link '/home/wade/ros2_ws/build/tutorial_interfaces/ament_cmake_python/tutorial_interfaces/tutorial_interfaces' because existing path cannot be removed: Is a directory
+[0.365s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_tutorial_interfaces.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_tutorial_interfaces] Error 1
+[0.365s] gmake[1]: *** [CMakeFiles/Makefile2:421: CMakeFiles/ament_cmake_python_symlink_tutorial_interfaces.dir/all] Error 2
+[0.365s] gmake[1]: *** Waiting for unfinished jobs....
+[0.395s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_introspection_cpp[0m
+[0.418s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_introspection_c[0m
+[0.421s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_c[0m
+[0.427s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[0.430s] [35m[1mConsolidate compiler generated dependencies of target tutorial_interfaces__rosidl_typesupport_fastrtps_c[0m
+[0.462s] [ 23%] Built target tutorial_interfaces__rosidl_typesupport_introspection_cpp
+[0.474s] [ 34%] Built target tutorial_interfaces__rosidl_typesupport_cpp
+[0.474s] [ 44%] Built target tutorial_interfaces__rosidl_typesupport_c
+[0.486s] [ 55%] Built target tutorial_interfaces__rosidl_typesupport_introspection_c
+[0.499s] [ 65%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.499s] [ 76%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_c
+[0.499s] gmake: *** [Makefile:146: all] Error 2
+[0.533s] Invoked command in '/home/wade/ros2_ws/build/tutorial_interfaces' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/robot_math:/home/wade/ros2_ws/install/python_parameters:/home/wade/ros2_ws/install/my_turtlebot3_sim:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/wade/ros2_ws/build/tutorial_interfaces -- -j12 -l12

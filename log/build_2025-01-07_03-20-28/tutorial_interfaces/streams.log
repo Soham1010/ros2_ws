@@ -1,0 +1,202 @@
+[0.154s] Invoking command in '/home/wade/ros2_ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/python_parameters:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/wade/ros2_ws/build/tutorial_interfaces -- -j12 -l12
+[0.366s] [  2%] Built target tutorial_interfaces__cpp
+[0.367s] [ 12%] Built target tutorial_interfaces__rosidl_generator_c
+[0.506s] [ 12%] Built target ament_cmake_python_copy_tutorial_interfaces
+[0.558s] [ 23%] Built target tutorial_interfaces__rosidl_typesupport_c
+[0.562s] [ 34%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_c
+[0.599s] [ 44%] Built target tutorial_interfaces__rosidl_typesupport_introspection_c
+[0.613s] [ 55%] Built target tutorial_interfaces__rosidl_typesupport_introspection_cpp
+[0.632s] [ 65%] Built target tutorial_interfaces__rosidl_typesupport_cpp
+[0.639s] [ 76%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.689s] [ 76%] Built target tutorial_interfaces
+[0.736s] [ 78%] Built target tutorial_interfaces__py
+[0.796s] [ 87%] Built target tutorial_interfaces__rosidl_generator_py
+[0.852s] [ 91%] Built target tutorial_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.852s] [ 95%] Built target tutorial_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.853s] [100%] Built target tutorial_interfaces__rosidl_typesupport_c__pyext
+[1.108s] running egg_info
+[1.109s] writing tutorial_interfaces.egg-info/PKG-INFO
+[1.110s] writing dependency_links to tutorial_interfaces.egg-info/dependency_links.txt
+[1.111s] writing top-level names to tutorial_interfaces.egg-info/top_level.txt
+[1.115s] reading manifest file 'tutorial_interfaces.egg-info/SOURCES.txt'
+[1.116s] writing manifest file 'tutorial_interfaces.egg-info/SOURCES.txt'
+[1.188s] [100%] Built target ament_cmake_python_build_tutorial_interfaces_egg
+[3.098s] Invoked command in '/home/wade/ros2_ws/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/python_parameters:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/wade/ros2_ws/build/tutorial_interfaces -- -j12 -l12
+[3.100s] Invoking command in '/home/wade/ros2_ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/python_parameters:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/wade/ros2_ws/build/tutorial_interfaces
+[6.044s] -- Install configuration: ""
+[6.044s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/ament_index/resource_index/rosidl_interfaces/tutorial_interfaces
+[6.044s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[6.044s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[6.044s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[6.045s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__struct.h
+[6.045s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__functions.h
+[6.045s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__type_support.h
+[6.045s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__functions.c
+[6.045s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/add_three_ints.h
+[6.045s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[6.045s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[6.046s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__functions.h
+[6.046s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__struct.h
+[6.046s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__functions.c
+[6.046s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__type_support.h
+[6.048s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__functions.h
+[6.049s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__functions.c
+[6.049s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__struct.h
+[6.051s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__type_support.h
+[6.051s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/num.h
+[6.051s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/sphere.h
+[6.051s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_generator_c__visibility_control.h
+[6.051s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/library_path.sh
+[6.051s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/library_path.dsv
+[6.051s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_generator_c.so
+[6.051s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[6.052s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[6.052s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[6.052s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__rosidl_typesupport_fastrtps_c.h
+[6.052s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[6.053s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[6.055s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__rosidl_typesupport_fastrtps_c.h
+[6.055s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__rosidl_typesupport_fastrtps_c.h
+[6.056s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[6.056s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_fastrtps_c.so
+[6.056s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[6.056s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[6.056s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[6.056s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__builder.hpp
+[6.056s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__type_support.hpp
+[6.057s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__struct.hpp
+[6.057s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__traits.hpp
+[6.057s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/add_three_ints.hpp
+[6.057s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[6.057s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/num.hpp
+[6.057s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[6.057s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__struct.hpp
+[6.057s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__struct.hpp
+[6.057s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__builder.hpp
+[6.058s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__traits.hpp
+[6.058s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__traits.hpp
+[6.058s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__type_support.hpp
+[6.058s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__type_support.hpp
+[6.058s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__builder.hpp
+[6.058s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/sphere.hpp
+[6.058s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[6.058s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[6.058s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[6.058s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[6.059s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__rosidl_typesupport_fastrtps_cpp.hpp
+[6.059s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/dds_fastrtps
+[6.059s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[6.060s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[6.060s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[6.060s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__rosidl_typesupport_fastrtps_cpp.hpp
+[6.060s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/dds_fastrtps
+[6.060s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__rosidl_typesupport_fastrtps_cpp.hpp
+[6.060s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[6.060s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__type_support.c
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__rosidl_typesupport_introspection_c.h
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__type_support.c
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__rosidl_typesupport_introspection_c.h
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__rosidl_typesupport_introspection_c.h
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__type_support.c
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_introspection_c.so
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_c.so
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces
+[6.061s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__type_support.cpp
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/srv/detail/add_three_ints__rosidl_typesupport_introspection_cpp.hpp
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__type_support.cpp
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/num__rosidl_typesupport_introspection_cpp.hpp
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__type_support.cpp
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/include/tutorial_interfaces/tutorial_interfaces/msg/detail/sphere__rosidl_typesupport_introspection_cpp.hpp
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_introspection_cpp.so
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_typesupport_cpp.so
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/pythonpath.sh
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/pythonpath.dsv
+[6.062s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info
+[6.062s] -- Installing: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[6.062s] -- Installing: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[6.062s] -- Installing: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[6.063s] -- Installing: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[6.063s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces
+[6.063s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[6.063s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/libtutorial_interfaces__rosidl_generator_py.so
+[6.063s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv
+[6.063s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv/_add_three_ints_s.c
+[6.063s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv/__init__.py
+[6.063s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv/_add_three_ints.py
+[6.063s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/_tutorial_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[6.064s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/__init__.py
+[6.064s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[6.065s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[6.066s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg
+[6.066s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/__init__.py
+[6.066s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_num.py
+[6.066s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_sphere.py
+[6.066s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_sphere_s.c
+[6.066s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg/_num_s.c
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/_tutorial_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/_tutorial_interfaces_s.ep.rosidl_typesupport_c.c
+[6.067s] Listing '/home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces'...
+[6.067s] Listing '/home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/msg'...
+[6.067s] Listing '/home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/srv'...
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages/tutorial_interfaces/tutorial_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/lib/libtutorial_interfaces__rosidl_generator_py.so
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/msg/Num.idl
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/msg/Sphere.idl
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/srv/AddThreeInts.idl
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/msg/Num.msg
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/msg/Sphere.msg
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/srv/AddThreeInts.srv
+[6.067s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/srv/AddThreeInts_Request.msg
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/srv/AddThreeInts_Response.msg
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/ament_index/resource_index/package_run_dependencies/tutorial_interfaces
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/ament_index/resource_index/parent_prefix_path/tutorial_interfaces
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/ament_prefix_path.sh
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/ament_prefix_path.dsv
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/path.sh
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/environment/path.dsv
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.bash
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.sh
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.zsh
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/local_setup.dsv
+[6.068s] -- Installing: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/package.dsv
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/ament_index/resource_index/packages/tutorial_interfaces
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_cExport.cmake
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_cExport-noconfig.cmake
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_cppExport.cmake
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[6.068s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cExport.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cppExport.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_pyExport.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/export_tutorial_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/rosidl_cmake-extras.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[6.069s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[6.070s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfacesConfig.cmake
+[6.070s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/cmake/tutorial_interfacesConfig-version.cmake
+[6.070s] -- Up-to-date: /home/wade/ros2_ws/install/tutorial_interfaces/share/tutorial_interfaces/package.xml
+[6.110s] Invoked command in '/home/wade/ros2_ws/build/tutorial_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/wade/ros2_ws/install/py_srvcli:/home/wade/ros2_ws/install/py_pubsub:/home/wade/ros2_ws/install/python_parameters:/home/wade/ros2_ws/install/my_package:/home/wade/ros2_ws/install/launch_testing_examples:/home/wade/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/wade/ros2_ws/install/examples_rclpy_minimal_service:/home/wade/ros2_ws/install/examples_rclpy_minimal_publisher:/home/wade/ros2_ws/install/examples_rclpy_minimal_client:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_server:/home/wade/ros2_ws/install/examples_rclpy_minimal_action_client:/home/wade/ros2_ws/install/examples_rclpy_guard_conditions:/home/wade/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/wade/ros2_ws/build/tutorial_interfaces

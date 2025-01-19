@@ -1,0 +1,86 @@
+[0.000000] (-) TimerEvent: {}
+[0.001346] (-) JobUnselected: {'identifier': 'examples_rclcpp_async_client'}
+[0.001414] (-) JobUnselected: {'identifier': 'examples_rclcpp_cbg_executor'}
+[0.001446] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_action_client'}
+[0.001473] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_action_server'}
+[0.001498] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_client'}
+[0.001523] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_composition'}
+[0.001548] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_publisher'}
+[0.001574] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_service'}
+[0.001598] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_subscriber'}
+[0.001622] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_timer'}
+[0.001646] (-) JobUnselected: {'identifier': 'examples_rclcpp_multithreaded_executor'}
+[0.001671] (-) JobUnselected: {'identifier': 'examples_rclcpp_wait_set'}
+[0.001696] (-) JobUnselected: {'identifier': 'examples_rclpy_executors'}
+[0.001735] (-) JobUnselected: {'identifier': 'examples_rclpy_guard_conditions'}
+[0.001898] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_action_client'}
+[0.001956] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_action_server'}
+[0.001989] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_client'}
+[0.002015] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_publisher'}
+[0.002040] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_service'}
+[0.002066] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_subscriber'}
+[0.002090] (-) JobUnselected: {'identifier': 'examples_rclpy_pointcloud_publisher'}
+[0.002115] (-) JobUnselected: {'identifier': 'launch_testing_examples'}
+[0.002139] (-) JobUnselected: {'identifier': 'my_package'}
+[0.002163] (-) JobUnselected: {'identifier': 'py_pubsub'}
+[0.002187] (-) JobUnselected: {'identifier': 'turtlesim'}
+[0.002216] (py_srvcli) JobQueued: {'identifier': 'py_srvcli', 'dependencies': OrderedDict()}
+[0.002252] (py_srvcli) JobStarted: {'identifier': 'py_srvcli'}
+[0.099456] (-) TimerEvent: {}
+[0.200015] (-) TimerEvent: {}
+[0.300458] (-) TimerEvent: {}
+[0.400909] (-) TimerEvent: {}
+[0.501327] (-) TimerEvent: {}
+[0.601744] (-) TimerEvent: {}
+[0.702187] (-) TimerEvent: {}
+[0.802620] (-) TimerEvent: {}
+[0.903122] (-) TimerEvent: {}
+[1.003595] (-) TimerEvent: {}
+[1.011539] (py_srvcli) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/py_srvcli', 'build', '--build-base', '/home/wade/ros2_ws/build/py_srvcli/build', 'install', '--record', '/home/wade/ros2_ws/build/py_srvcli/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/wade/ros2_ws/src/py_srvcli', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'wade', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/wade', 'OLDPWD': '/home/wade', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'SYSTEMD_EXEC_PID': '2331', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', '_colcon_cd_root': '/opt/ros/humble/', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'humble', 'LOGNAME': 'wade', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'wade', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '1', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/wade-LOQ-15APH8:@/tmp/.ICE-unix/2298,unix/wade-LOQ-15APH8:/tmp/.ICE-unix/2298', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/40637f2d_a88f_4873_b51f_21359abae660', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.EDE8Y2', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.103', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '7', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/wade/ros2_ws/build/py_srvcli', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/home/wade/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/wade/ros2_ws/build/py_srvcli/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wade/ros2_ws/install/py_srvcli/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[1.103834] (-) TimerEvent: {}
+[1.204340] (-) TimerEvent: {}
+[1.304746] (-) TimerEvent: {}
+[1.405195] (-) TimerEvent: {}
+[1.405876] (py_srvcli) StdoutLine: {'line': b'running egg_info\n'}
+[1.406849] (py_srvcli) StdoutLine: {'line': b'creating ../../build/py_srvcli/py_srvcli.egg-info\n'}
+[1.407129] (py_srvcli) StdoutLine: {'line': b'writing ../../build/py_srvcli/py_srvcli.egg-info/PKG-INFO\n'}
+[1.407586] (py_srvcli) StdoutLine: {'line': b'writing dependency_links to ../../build/py_srvcli/py_srvcli.egg-info/dependency_links.txt\n'}
+[1.407987] (py_srvcli) StdoutLine: {'line': b'writing entry points to ../../build/py_srvcli/py_srvcli.egg-info/entry_points.txt\n'}
+[1.408172] (py_srvcli) StdoutLine: {'line': b'writing requirements to ../../build/py_srvcli/py_srvcli.egg-info/requires.txt\n'}
+[1.408286] (py_srvcli) StdoutLine: {'line': b'writing top-level names to ../../build/py_srvcli/py_srvcli.egg-info/top_level.txt\n'}
+[1.408469] (py_srvcli) StdoutLine: {'line': b"writing manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'\n"}
+[1.411168] (py_srvcli) StdoutLine: {'line': b"reading manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'\n"}
+[1.411466] (py_srvcli) StdoutLine: {'line': b"adding license file 'LICENSE'\n"}
+[1.412366] (py_srvcli) StdoutLine: {'line': b"writing manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'\n"}
+[1.412699] (py_srvcli) StdoutLine: {'line': b'running build\n'}
+[1.412968] (py_srvcli) StdoutLine: {'line': b'running build_py\n'}
+[1.413182] (py_srvcli) StdoutLine: {'line': b'creating /home/wade/ros2_ws/build/py_srvcli/build\n'}
+[1.413301] (py_srvcli) StdoutLine: {'line': b'creating /home/wade/ros2_ws/build/py_srvcli/build/lib\n'}
+[1.413398] (py_srvcli) StdoutLine: {'line': b'creating /home/wade/ros2_ws/build/py_srvcli/build/lib/py_srvcli\n'}
+[1.413531] (py_srvcli) StdoutLine: {'line': b'copying py_srvcli/client_member_function.py -> /home/wade/ros2_ws/build/py_srvcli/build/lib/py_srvcli\n'}
+[1.413658] (py_srvcli) StdoutLine: {'line': b'copying py_srvcli/__init__.py -> /home/wade/ros2_ws/build/py_srvcli/build/lib/py_srvcli\n'}
+[1.413874] (py_srvcli) StdoutLine: {'line': b'copying py_srvcli/service_member_function.py -> /home/wade/ros2_ws/build/py_srvcli/build/lib/py_srvcli\n'}
+[1.414621] (py_srvcli) StdoutLine: {'line': b'running install\n'}
+[1.415313] (py_srvcli) StdoutLine: {'line': b'running install_lib\n'}
+[1.416478] (py_srvcli) StdoutLine: {'line': b'creating /home/wade/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli\n'}
+[1.416761] (py_srvcli) StdoutLine: {'line': b'copying /home/wade/ros2_ws/build/py_srvcli/build/lib/py_srvcli/client_member_function.py -> /home/wade/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli\n'}
+[1.416982] (py_srvcli) StdoutLine: {'line': b'copying /home/wade/ros2_ws/build/py_srvcli/build/lib/py_srvcli/__init__.py -> /home/wade/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli\n'}
+[1.417079] (py_srvcli) StdoutLine: {'line': b'copying /home/wade/ros2_ws/build/py_srvcli/build/lib/py_srvcli/service_member_function.py -> /home/wade/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli\n'}
+[1.418150] (py_srvcli) StdoutLine: {'line': b'byte-compiling /home/wade/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/client_member_function.py to client_member_function.cpython-310.pyc\n'}
+[1.419176] (py_srvcli) StdoutLine: {'line': b'byte-compiling /home/wade/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/__init__.py to __init__.cpython-310.pyc\n'}
+[1.419475] (py_srvcli) StdoutLine: {'line': b'byte-compiling /home/wade/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/service_member_function.py to service_member_function.cpython-310.pyc\n'}
+[1.420154] (py_srvcli) StdoutLine: {'line': b'running install_data\n'}
+[1.420498] (py_srvcli) StdoutLine: {'line': b'creating /home/wade/ros2_ws/install/py_srvcli/share/ament_index\n'}
+[1.420648] (py_srvcli) StdoutLine: {'line': b'creating /home/wade/ros2_ws/install/py_srvcli/share/ament_index/resource_index\n'}
+[1.420869] (py_srvcli) StdoutLine: {'line': b'creating /home/wade/ros2_ws/install/py_srvcli/share/ament_index/resource_index/packages\n'}
+[1.421039] (py_srvcli) StdoutLine: {'line': b'copying resource/py_srvcli -> /home/wade/ros2_ws/install/py_srvcli/share/ament_index/resource_index/packages\n'}
+[1.421130] (py_srvcli) StdoutLine: {'line': b'copying package.xml -> /home/wade/ros2_ws/install/py_srvcli/share/py_srvcli\n'}
+[1.421211] (py_srvcli) StdoutLine: {'line': b'running install_egg_info\n'}
+[1.424002] (py_srvcli) StdoutLine: {'line': b'Copying ../../build/py_srvcli/py_srvcli.egg-info to /home/wade/ros2_ws/install/py_srvcli/lib/python3.10/site-packages/py_srvcli-0.0.0-py3.10.egg-info\n'}
+[1.425610] (py_srvcli) StdoutLine: {'line': b'running install_scripts\n'}
+[1.463995] (py_srvcli) StdoutLine: {'line': b'Installing service script to /home/wade/ros2_ws/install/py_srvcli/lib/py_srvcli\n'}
+[1.464667] (py_srvcli) StdoutLine: {'line': b"writing list of installed files to '/home/wade/ros2_ws/build/py_srvcli/install.log'\n"}
+[1.504420] (py_srvcli) CommandEnded: {'returncode': 0}
+[1.505219] (-) TimerEvent: {}
+[1.523469] (py_srvcli) JobEnded: {'identifier': 'py_srvcli', 'rc': 0}
+[1.524595] (-) EventReactorShutdown: {}
